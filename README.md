@@ -1,4 +1,4 @@
-# ⚽ Análise Tática de Posicionamento - Futebol com R & ggsoccer
+# Análise Tática de Posicionamento - Futebol com R & ggsoccer
 
 Este repositório contém um script em **R** desenvolvido para realizar análises avançadas de **posicionamento tático** e **densidade de ações** de jogadores de futebol, utilizando dados de eventos de partidas (ex: Opta/wyscout via arquivos CSV). 
 
@@ -6,11 +6,11 @@ Como o R é a linguagem padrão em nossa área de atuação analítica, todo o f
 
 ---
 
-## 📊 Visão Geral do Projeto & Exemplo Visual
+##  Visão Geral do Projeto & Exemplo Visual
 
 O script processa os dados de uma partida específica (ex: *Bahia vs. Corinthians*), filtra as ações de um atleta selecionado (como *Rodrigo Garro*), calcula a distribuição percentual das suas zonas de atuação em um grid tático universal (estilo UEFA/Opta) e gera um painel composto (*dashboard*) profissional.
 
-### 🖼️ Exemplo do Painel Tático Gerado (`final_plot`)
+###  Exemplo do Painel Tático Gerado (`final_plot`)
 
 Abaixo está o resultado visual gerado pelo código em R, combinando o mapa de zonas principais com um mapa de calor detalhado da densidade de ações do jogador:
 
@@ -37,7 +37,7 @@ O script faz uso intensivo das seguintes bibliotecas do ecossistema R:
 
 ---
 
-## ⚙️ Estrutura do Código R
+##  Estrutura do Código R
 
 O script está dividido em 4 etapas principais:
 
@@ -55,7 +55,7 @@ O script está dividido em 4 etapas principais:
 
 ---
 
-## 🚀 Como Executar
+##  Como Executar
 
 1. Certifique-se de ter o **R** e o **RStudio** instalados em sua máquina.
 2. Instale os pacotes necessários caso ainda não os possua:
