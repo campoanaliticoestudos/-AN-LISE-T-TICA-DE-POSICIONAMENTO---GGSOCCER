@@ -15,7 +15,7 @@ O script processa os dados de uma partida específica (ex: *Bahia vs. Corinthian
 Abaixo está o resultado visual gerado pelo código em R, combinando o mapa de zonas principais com um mapa de calor detalhado da densidade de ações do jogador:
 
 <p align="center">
-  <img src="HOPCXTpXUAAd2bB.jpg" alt="Exemplo de Análise Tática de Posicionamento" width="85%"/>
+  <img src="HOPCXTpXUAA2bzB.jpg" alt="Exemplo de Análise Tática de Posicionamento" width="85%"/>
 </p>
 
 *O dashboard exibe:*
